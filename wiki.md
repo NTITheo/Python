@@ -1,0 +1,9 @@
+ # Pythonintro
+
+ # variabler
+
+
+ 
+
+
+

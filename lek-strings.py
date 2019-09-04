@@ -2,11 +2,13 @@ firstName = "Theo"
 middleName = "Per"
 lastName = "Larefalk"
 
-gamerTag = "Snubby"
+gamerTag = "snubby"
 
-print(gamerTag.lower())
+print(gamerTag.capitalize())
+
 print(firstName, middleName, lastName)
 
+print(firstName.swapcase())
 
 #print(f"{firstName[0:3].lower()}{lastName[0:3].lower()}19")
 #userName = "firstName[0:3].lower()lastName[0:3].lower()19"

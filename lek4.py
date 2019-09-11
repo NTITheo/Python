@@ -9,7 +9,7 @@ print("wercome to dice monstahs") #Welcome message
 try:
     sides = int(input("Hur många sidor"))
 except:
-    print("Du måste skriva in en siffra") #Om man skriver fel slumpar den automatisct mellan 1,6
+    print("Du måste skriva in en siffra") #Om man skriver fel så får man ett till försök
     sides = int(input("Hur många sidor"))
 
 #randomNumber = random.randint(1, sides)

@@ -2,7 +2,7 @@
 
 import random #Random är nu möjligt
 
-print("wercome to dice monstahs") #Welcome message
+print("wercome to dice monstah") #Welcome message
 
 
 #sides = int(input("Hur många sidor"))
